@@ -1,3 +1,3 @@
 # currencies
 
-The list of currecnies with numeric codes and exponents.
+The list of currencies with numeric codes and exponents.
